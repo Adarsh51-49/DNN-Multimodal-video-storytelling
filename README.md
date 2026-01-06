@@ -26,9 +26,15 @@ Performance is evaluated using CIDEr, ROUGE-L, and qualitative narrative flow an
 Results show that Transformer-based architectures provide improved long-range temporal reasoning and more coherent narrative generation compared to LSTM-based models.
 
 ## Results
-All experiments, visualizations, and text generation examples are implemented and documented in `Experiment_notebook.ipynb`.
 
-## References
+The results obtained during experimentation are stored in the `results/` folder.
+
+- `loss_comparison.png`: Training and validation loss comparison between the baseline LSTM model and the Transformer-based model.
+- `cider_comparison.png`: CIDEr score comparison across epochs.
+- `rouge_comparison.png`: ROUGE-L score comparison for long video sequences.
+
+These figures are generated directly from the code in `Experiment_notebook.ipynb`.
+
 ## References
 
 [1] Vaswani, A. et al. (2017). *Attention Is All You Need*. Advances in Neural Information Processing Systems (NeurIPS).
