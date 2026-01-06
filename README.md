@@ -27,3 +27,17 @@ Results show that Transformer-based architectures provide improved long-range te
 
 ## Results
 All experiments, visualizations, and text generation examples are implemented and documented in `Experiment_notebook.ipynb`.
+
+## References
+## References
+
+[1] Vaswani, A. et al. (2017). *Attention Is All You Need*. Advances in Neural Information Processing Systems (NeurIPS).
+
+[2] Hochreiter, S. and Schmidhuber, J. (1997). *Long Short-Term Memory*. Neural Computation.
+
+[3] Simonyan, K. and Zisserman, A. (2014). *Very Deep Convolutional Networks for Large-Scale Image Recognition*. arXiv preprint arXiv:1409.1556.
+
+[4] Hori, C. et al. (2018). *Attention-based Multimodal Video Description*. IEEE International Conference on Computer Vision (ICCV).
+
+[5] Papineni, K. et al. (2002). *BLEU: a Method for Automatic Evaluation of Machine Translation*. ACL.
+
