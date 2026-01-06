@@ -41,7 +41,9 @@ Due to computational constraints, this project does not perform full-scale end-t
 
 Additionally, text generation is evaluated indirectly through standard captioning metrics rather than through real-time caption generation from raw video inputs.
 
+## Future Work
 
+Future work could include full training on the complete StoryReasoning dataset, implementing an end-to-end video-to-text generation pipeline, and providing qualitative examples of generated stories. Further improvements may also explore advanced attention mechanisms, diffusion-based visual generation, and larger pretrained language models for improved narrative coherence.
 
 ## References
 
