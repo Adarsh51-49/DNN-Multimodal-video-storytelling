@@ -35,6 +35,14 @@ The results obtained during experimentation are stored in the `results/` folder.
 
 These figures are generated directly from the code in `Experiment_notebook.ipynb`.
 
+## Limitations
+
+Due to computational constraints, this project does not perform full-scale end-to-end training on the entire StoryReasoning dataset. The experiments focus on prototype-level evaluation and comparative analysis of model architectures rather than achieving full convergence or state-of-the-art performance.
+
+Additionally, text generation is evaluated indirectly through standard captioning metrics rather than through real-time caption generation from raw video inputs.
+
+
+
 ## References
 
 [1] Vaswani, A. et al. (2017). *Attention Is All You Need*. Advances in Neural Information Processing Systems (NeurIPS).
