@@ -24,3 +24,6 @@ Performance is evaluated using CIDEr, ROUGE-L, and qualitative narrative flow an
 
 ## Conclusion
 Results show that Transformer-based architectures provide improved long-range temporal reasoning and more coherent narrative generation compared to LSTM-based models.
+
+## Results
+All experiments, visualizations, and text generation examples are implemented and documented in `Experiment_notebook.ipynb`.
